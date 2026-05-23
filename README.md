@@ -1,27 +1,40 @@
 # RDA_HRD_20260526
-본 저장소는 아래 강의를 위해 강의 자료 및 관련 정보를 아카이빙 하기 위한 저장소 입니다.
+본 저장소는 아래 강의를 위해 강의 자료 및 관련 정보를 공유 및 아카이빙 하기 위한 저장소 입니다.
 > 과정명: `AI와 파이썬 활용 데이터분석 기초`
 > 교육 구분: `공무원 교육`
 > 교육 기간: `2026.05.26`
 
-> 진행: `전북 대학교 통계학과 조교수 황승용`, `063-270-3390`, `syhwang@jbnu.ac.kr`
+> 진행: `전북 대학교 통계학과 조교수 황승용`,
+> 연락처: `063-270-3390`,
+> 이메일: `syhwang@jbnu.ac.kr`
+> github: `https://github.com/vic-dragon`
 
-# 필요한 것
-구글 아이디, 비밀번호 
+# 교육 자료 
 
+### 실습용 엑셀 파일(다운 받으셔야 합니다.)
+[농작물 종합 실습.xlsx](https://docs.google.com/spreadsheets/d/17wso1HwLiep7ZgpRA6ZZSDp5_smpkQt6/edit?usp=sharing&ouid=113037456119891269010&rtpof=true&sd=true)   
 
-## 교육 자료 
-### 교재 원고 
-공개?
-
-### 실습에 사용할 파일
-세션 2 - 엑셀 파일, 코랩 공유
-
-세션 3 - 머신러닝, 코랩 공유
+[농작물 전처리 실습.xlsx](https://docs.google.com/spreadsheets/d/1qcWaN9OhXsbMPWa9-3L7seeW8lqQH_SM/edit?usp=sharing&ouid=113037456119891269010&rtpof=true&sd=true)
 
 
-## colab
+## Day 1: 2026-05-26
+### 실습용 ipynb 파일
+**상단 메뉴에서 `파일` > `드라이브에 사본 저장`을 눌러 본인의 구글 드라이브에 복사본을 만든 후 작업** 하면, 추후에 혼자 복습하실 때 편하게 사용 가능합니다.
 
+[세션 2: 전처리 실습](https://drive.google.com/file/d/1HE0cyUQNwXvAMPwP_weS9v8fuLOVse3f/view?usp=drive_link)
+
+[세션 3: 머신러닝 실습](https://drive.google.com/file/d/1a2c_t-h78hA13wbYvvWqPrTSi66Uhgp0/view?usp=drive_link)
+
+## Day 2: 2026-05-27
+### 실습용 ipynb 파일
+**상단 메뉴에서 `파일` > `드라이브에 사본 저장`을 눌러 본인의 구글 드라이브에 복사본을 만든 후 작업** 하면, 추후에 혼자 복습하실 때 편하게 사용 가능합니다.
+
+[시각화 실습](https://drive.google.com/file/d/19eqI0tk0sQsKN0RxPCpAj2NOGPMxan9M/view?usp=sharing)
+
+[gemini 사용 실습](https://drive.google.com/file/d/1gi5aGCSanq7HfvM5gFji3bgToeZjaHhZ/view?usp=sharing)
+
+
+---
 
 # QnA
 
@@ -88,7 +101,7 @@ Day 1 세션 3의 머신러닝이나 통계 요약 결과를 보고 인사이트
 
 ### 코드 오류(Error) 해결 요청 시
 
-에러 메시지를 만나 당황했을 때 원인 파악과 수정된 코드를 동시에 얻어내는 프롬프트입니다.
+에러 메시지를 만났을 때 원인 파악과 수정된 코드를 동시에 얻어내는 프롬프트입니다.
 
 | 상황 | 프롬프트 조합 예시 |
 | --- | --- |
