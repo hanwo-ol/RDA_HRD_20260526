@@ -12,6 +12,12 @@
 # 교육 자료 `다운 필수`
 
 ### 실습용 엑셀 파일(다운 받으셔야 합니다.)
+
+통합
+
+[https://drive.google.com/drive/folders/1lU_DtoIi1mNmivw4pm40m0-U1ig5fJF5?usp=sharing]
+
+
 [농작물 종합 실습.xlsx](https://docs.google.com/spreadsheets/d/1-J6OCYz3zIHdeO4catAf2NPVbvePLf7X/edit?usp=drive_link&ouid=113037456119891269010&rtpof=true&sd=true)   
 
 [종합실습 완료.xlsx](https://docs.google.com/spreadsheets/d/1puRIHFuICh2_vUoYeHMXl_SE9jry2R_8/edit?usp=drive_link&ouid=113037456119891269010&rtpof=true&sd=true)
