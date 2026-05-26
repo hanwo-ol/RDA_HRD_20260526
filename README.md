@@ -9,7 +9,7 @@
 > 이메일: `syhwang@jbnu.ac.kr`   
 > github: `https://github.com/vic-dragon`    
 
-# 교육 자료 
+# 교육 자료 `다운 필수`
 
 ### 실습용 엑셀 파일(다운 받으셔야 합니다.)
 [농작물 종합 실습.xlsx](https://docs.google.com/spreadsheets/d/1-J6OCYz3zIHdeO4catAf2NPVbvePLf7X/edit?usp=drive_link&ouid=113037456119891269010&rtpof=true&sd=true)   
