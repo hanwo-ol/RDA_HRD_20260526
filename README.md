@@ -13,7 +13,8 @@
 
 ### 실습용 엑셀 파일(다운 받으셔야 합니다.)
 
-통합
+## 통합
+**상단 메뉴에서 `파일` > `드라이브에 사본 저장`을 눌러 본인의 구글 드라이브에 복사본을 만든 후 작업** 하면, 추후에 혼자 복습하실 때 편하게 사용 가능합니다.
 
 [https://drive.google.com/drive/folders/1lU_DtoIi1mNmivw4pm40m0-U1ig5fJF5?usp=sharing]
 
