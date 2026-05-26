@@ -12,26 +12,40 @@
 # 교육 자료 
 
 ### 실습용 엑셀 파일(다운 받으셔야 합니다.)
-[농작물 종합 실습.xlsx](https://docs.google.com/spreadsheets/d/17wso1HwLiep7ZgpRA6ZZSDp5_smpkQt6/edit?usp=sharing&ouid=113037456119891269010&rtpof=true&sd=true)   
+[농작물 종합 실습.xlsx](https://docs.google.com/spreadsheets/d/1-J6OCYz3zIHdeO4catAf2NPVbvePLf7X/edit?usp=drive_link&ouid=113037456119891269010&rtpof=true&sd=true)   
 
-[농작물 전처리 실습.xlsx](https://docs.google.com/spreadsheets/d/1qcWaN9OhXsbMPWa9-3L7seeW8lqQH_SM/edit?usp=sharing&ouid=113037456119891269010&rtpof=true&sd=true)
+[종합실습 완료.xlsx](https://docs.google.com/spreadsheets/d/1puRIHFuICh2_vUoYeHMXl_SE9jry2R_8/edit?usp=drive_link&ouid=113037456119891269010&rtpof=true&sd=true)
+
+[농작물 전처리 실습.xlsx](https://docs.google.com/spreadsheets/d/1mbDlxAecdJCg_HQ4nmDYG-Q9A1wqf77J/edit?usp=drive_link&ouid=113037456119891269010&rtpof=true&sd=true)
+
+[농작물 정제 완료.xlsx](https://docs.google.com/spreadsheets/d/1oaGMNICnH0-KoIV28pYJsetX4BNZlgSI/edit?usp=drive_link&ouid=113037456119891269010&rtpof=true&sd=true)
 
 
 ## Day 1: 2026-05-26
 ### 실습용 ipynb 파일
 **상단 메뉴에서 `파일` > `드라이브에 사본 저장`을 눌러 본인의 구글 드라이브에 복사본을 만든 후 작업** 하면, 추후에 혼자 복습하실 때 편하게 사용 가능합니다.
 
-[세션 2: 전처리 실습](https://drive.google.com/file/d/1HE0cyUQNwXvAMPwP_weS9v8fuLOVse3f/view?usp=drive_link)
+[Day1_데이터전처리_교재](https://drive.google.com/file/d/1Ax2KHSv-VlWnKmNb-bsIyzR0phA22YtZ/view?usp=drive_link)
 
-[세션 3: 머신러닝 실습](https://drive.google.com/file/d/1a2c_t-h78hA13wbYvvWqPrTSi66Uhgp0/view?usp=drive_link)
+[Day1_머신러닝기초_교재](https://drive.google.com/file/d/1nJtyvaBUe0wLTc0L2Njd4UxKNPMKHgEy/view?usp=drive_link)
+
+### A/S
+
+빈칸이 모두 채워저 있는 교안 파일은 편히 복습하실 수 있게 Day 1이 끝난 이후 일괄 공유 드리겠습니다.
 
 ## Day 2: 2026-05-27
 ### 실습용 ipynb 파일
 **상단 메뉴에서 `파일` > `드라이브에 사본 저장`을 눌러 본인의 구글 드라이브에 복사본을 만든 후 작업** 하면, 추후에 혼자 복습하실 때 편하게 사용 가능합니다.
 
-[시각화 실습](https://drive.google.com/file/d/19eqI0tk0sQsKN0RxPCpAj2NOGPMxan9M/view?usp=sharing)
+[Day2_데이터시각화_교재](https://drive.google.com/file/d/17y4pVQyReOrb5lFVZSwXjwZySxlH_JEe/view?usp=drive_link)
 
-[gemini 사용 실습](https://drive.google.com/file/d/1gi5aGCSanq7HfvM5gFji3bgToeZjaHhZ/view?usp=sharing)
+[Day2_GenAI활용_교재](https://drive.google.com/file/d/17J4r5c0Ps074UWAj9h8qAWFjRvHGCrYU/view?usp=drive_link)
+
+### A/S
+
+빈칸이 모두 채워저 있는 교안 파일은 편히 복습하실 수 있게 Day 2가 끝난 이후 일괄 공유 드리겠습니다.
+
+
 
 
 ---
