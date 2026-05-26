@@ -37,8 +37,89 @@
 [Day1_머신러닝기초_교재](https://drive.google.com/file/d/1nJtyvaBUe0wLTc0L2Njd4UxKNPMKHgEy/view?usp=drive_link)
 
 ### A/S
+전처리 체크리스트(복사 하셔서 확인하면서 하시면 좋습니다.)
 
-빈칸이 모두 채워저 있는 교안 파일은 편히 복습하실 수 있게 Day 1이 끝난 이후 일괄 공유 드리겠습니다.
+<details>
+  
+<summary>보기</summary>
+
+``` markdown
+데이터 전처리 표준 체크리스트 (실습용)
+[ ] 1. 초기 데이터 탐색 (Data Inspection)
+
+데이터 불러오기 (read_csv, read_excel)
+
+데이터의 행과 열 크기 확인 (shape)
+
+상/하위 데이터 및 전반적인 구조 확인 (head, tail, info)
+
+수치형 데이터의 기초 통계량 확인 (describe)
+
+[ ] 2. 열 이름 및 구조 정리 (Column Cleaning)
+
+열 이름의 앞뒤 공백 및 불필요한 특수문자 제거 (str.strip, str.replace)
+
+직관적이고 다루기 쉬운 이름으로 변경 (rename)
+
+분석 목적과 무관하거나 값이 하나뿐인 불필요한 열 제거 (drop)
+
+[ ] 3. 결측값 처리 (Missing Values)
+
+각 열의 결측값 개수와 전체 대비 비율 파악 (isnull().sum())
+
+결측값이 너무 많은 의미 없는 행/열 제거 (dropna)
+
+데이터 특성에 맞춰 평균, 중앙값, 최빈값, 또는 앞/뒤 값으로 빈칸 대체 (fillna)
+
+[ ] 4. 중복 데이터 제거 (Duplicates)
+
+데이터 전체에서 완전히 동일한 중복 행 탐지 (duplicated().sum())
+
+고유 식별자(ID 등)가 중복되는 행이 있는지 특정 열 기준으로 추가 확인
+
+탐지된 중복 행 제거 및 원본 데이터 반영 (drop_duplicates)
+
+[ ] 5. 데이터 타입 변환 (Type Conversion)
+
+각 열의 실제 의미(숫자, 문자, 날짜 등)와 판다스에 인식된 자료형(dtype)이 일치하는지 확인
+
+문자열로 잘못 인식된 숫자형 데이터를 올바르게 강제 변환 (to_numeric)
+
+메모리 절약과 분석 효율을 위해 텍스트를 범주형으로 변환 (astype('category'))
+
+[ ] 6. 문자열(텍스트) 데이터 정제 (String Cleaning)
+
+문자열 값 내부의 불필요한 띄어쓰기 및 앞뒤 공백 제거 (str.strip)
+
+데이터에 섞여 있는 기호(%, 원, $, , 등) 및 단위 텍스트 제거 (str.replace)
+
+영문 데이터가 있다면 대소문자 중 하나로 통일 (str.lower, str.upper)
+
+[ ] 7. 날짜/시간 데이터 처리 (Datetime Processing)
+
+단순 문자열로 되어 있는 날짜 데이터를 시계열 분석이 가능한 형식으로 변환 (to_datetime)
+
+분석에 필요한 경우 연, 월, 일, 요일, 시간 등의 파생 변수(파생 열) 생성 (dt.year, dt.month 등)
+
+[ ] 8. 이상값 탐지 및 처리 (Outliers)
+
+사분위수(IQR) 공식을 활용하여 데이터의 정상 범위(상한선/하한선) 계산
+
+상자 수염 그림(Boxplot)이나 히스토그램을 그려 시각적으로 이상값 분포 확인
+
+도출된 기준에 따라 이상값을 상하한값으로 대체(clip)하거나 분석에서 제외
+
+[ ] 9. 최종 검증 및 파일 저장 (Verification & Export)
+
+결측값 0개, 중복값 0개, 알맞은 자료형이 모두 적용되었는지 최종 코드 점검
+
+정제가 완료된 깔끔한 데이터를 새로운 이름의 파일로 저장 (to_csv, to_excel)
+
+저장 시 불필요한 인덱스 열이 추가되지 않도록 설정했는지 확인 (index=False)
+
+```
+
+</details>
 
 ## Day 2: 2026-05-27
 ### 실습용 ipynb 파일
