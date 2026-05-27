@@ -133,8 +133,7 @@
 
 ### A/S
 
-빈칸이 모두 채워저 있는 교안 파일은 편히 복습하실 수 있게 Day 2가 끝난 이후 일괄 공유 드리겠습니다.
-
+[시각화 cheatsheet](https://github.com/hanwo-ol/RDA_HRD_20260526/blob/main/visualizer.md)
 
 
 
