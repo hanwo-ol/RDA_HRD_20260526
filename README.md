@@ -10,7 +10,8 @@
 > github: `https://github.com/vic-dragon`    
 
 ## 이틀동안, 귀한 시간 참여해주셔서 너무 감사합니다. 도움이 될 수 있는 자료가 있다면, 하단에 계속 추가해두겠습니다.
-> 마지막 갱신일시 `20260527 1235`
+> 마지막 갱신일시 `20260527 1235`    
+> 보조강사 정보: [보기](https://github.com/hanwo-ol/RDA_HRD_20260526/blob/main/%EB%B3%B4%EC%A1%B0%EA%B0%95%EC%82%AC_%EC%A0%95%EB%B3%B4.md)
 
 # 교육 자료 `다운 필수`
 
