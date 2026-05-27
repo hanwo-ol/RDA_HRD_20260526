@@ -137,7 +137,13 @@
 
 [matplotlib 한국어 설명서](https://wikidocs.net/92071)
 
+[인트라 넷 이용자는 어떻게 도움말을 보나요?](https://github.com/hanwo-ol/RDA_HRD_20260526/blob/main/intra_net_user.md)
+
 각 데이터 시각화 모듈의 스타일 및 꾸미기 요소에 대한 공식 문서 위치를 정리해 드립니다. 
+
+<details>
+  
+<summary>보기</summary>
 
 1. Matplotlib
 
@@ -158,6 +164,8 @@
 * [스타일링 가이드 (Styling Plotly Express)](https://plotly.com/python/styling-plotly-express/)
 
 해당 공식 문서들을 참고하시면 글꼴 크기, 배경색, 축 눈금 설정, 범례 위치 조정 등 시각화 자료의 완성도를 높이는 다양한 방법을 쉽게 찾으실 수 있습니다.
+
+</details>
 
 ---
 
