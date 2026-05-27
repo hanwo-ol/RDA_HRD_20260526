@@ -2,7 +2,7 @@
 본 저장소는 아래 강의를 위해 강의 자료 및 관련 정보를 공유 및 아카이빙 하기 위한 저장소 입니다.
 > 과정명: `AI와 파이썬 활용 데이터분석 기초`
 > 교육 구분: `공무원 교육`
-> 교육 기간: `2026.05.26`
+> 교육 기간: `2026.05.26`~`2026.05.27`
 
 > 진행: `전북 대학교 통계학과 조교수 황승용`,   
 > 연락처: `063-270-3390`,    
@@ -135,7 +135,29 @@
 
 [시각화 cheatsheet](https://github.com/hanwo-ol/RDA_HRD_20260526/blob/main/visualizer.md)
 
+[matplotlib 한국어 설명서](https://wikidocs.net/92071)
 
+각 데이터 시각화 모듈의 스타일 및 꾸미기 요소에 대한 공식 문서 위치를 정리해 드립니다. 
+
+1. Matplotlib
+
+* [스타일 커스텀 가이드 (Customizing Matplotlib)](https://matplotlib.org/stable/users/customizing.html)
+* [다양한 스타일 시트 미리보기 (Style sheets reference)](https://matplotlib.org/stable/gallery/style_sheets/style_sheets_reference.html)
+* [Axes(그래프 영역) 세부 속성 (Axes API)](https://matplotlib.org/stable/api/axes_api.html)
+
+2. Seaborn
+
+* [테마 및 미적 요소 설정 (Aesthetics tutorial)](https://seaborn.pydata.org/tutorial/aesthetics.html)
+* [색상 팔레트 가이드 (Color palettes)](https://seaborn.pydata.org/tutorial/color_palettes.html)
+* [테마 관련 API 목록](https://www.google.com/search?q=https://seaborn.pydata.org/api.html%23themeing)
+
+3. Plotly (Python)
+
+* [레이아웃 및 스타일 전체 속성 (Figure Reference - Layout)](https://plotly.com/python/reference/layout/)
+* [전체 API 참조 목록 (Single-Page Reference)](https://plotly.com/python/reference/)
+* [스타일링 가이드 (Styling Plotly Express)](https://plotly.com/python/styling-plotly-express/)
+
+해당 공식 문서들을 참고하시면 글꼴 크기, 배경색, 축 눈금 설정, 범례 위치 조정 등 시각화 자료의 완성도를 높이는 다양한 방법을 쉽게 찾으실 수 있습니다.
 
 ---
 
